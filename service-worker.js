@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/QuantumPhilosophy/clicky-game/precache-manifest.31fc15ae960e7e8ae785b0b0398378f6.js"
+  "/QuantumPhilosophy/clicky-game/precache-manifest.fb1b59b3d146aebe5d15c09216075d40.js"
 );
 
 self.addEventListener('message', (event) => {
