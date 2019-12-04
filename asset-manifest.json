@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/QuantumPhilosophy/clicky-game/static/css/main.7881a23d.chunk.css",
-    "main.js": "/QuantumPhilosophy/clicky-game/static/js/main.de3add46.chunk.js",
-    "main.js.map": "/QuantumPhilosophy/clicky-game/static/js/main.de3add46.chunk.js.map",
-    "runtime~main.js": "/QuantumPhilosophy/clicky-game/static/js/runtime~main.4d4d922c.js",
-    "runtime~main.js.map": "/QuantumPhilosophy/clicky-game/static/js/runtime~main.4d4d922c.js.map",
-    "static/js/2.827207b6.chunk.js": "/QuantumPhilosophy/clicky-game/static/js/2.827207b6.chunk.js",
-    "static/js/2.827207b6.chunk.js.map": "/QuantumPhilosophy/clicky-game/static/js/2.827207b6.chunk.js.map",
-    "index.html": "/QuantumPhilosophy/clicky-game/index.html",
-    "precache-manifest.fb1b59b3d146aebe5d15c09216075d40.js": "/QuantumPhilosophy/clicky-game/precache-manifest.fb1b59b3d146aebe5d15c09216075d40.js",
-    "service-worker.js": "/QuantumPhilosophy/clicky-game/service-worker.js",
-    "static/css/main.7881a23d.chunk.css.map": "/QuantumPhilosophy/clicky-game/static/css/main.7881a23d.chunk.css.map"
+    "main.css": "/clicky-game/static/css/main.7881a23d.chunk.css",
+    "main.js": "/clicky-game/static/js/main.9dc418c6.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.9dc418c6.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.46c05d0c.chunk.js": "/clicky-game/static/js/2.46c05d0c.chunk.js",
+    "static/js/2.46c05d0c.chunk.js.map": "/clicky-game/static/js/2.46c05d0c.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.2b69eddd5eefebd22da69b4d262e6bd7.js": "/clicky-game/precache-manifest.2b69eddd5eefebd22da69b4d262e6bd7.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.7881a23d.chunk.css.map": "/clicky-game/static/css/main.7881a23d.chunk.css.map"
   }
 }
