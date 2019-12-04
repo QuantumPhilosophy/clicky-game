@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/QuantumPhilosophy/clicky-game",
+  "homepage": "https://QuantumPhilosophy.github.io/clicky-game",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
